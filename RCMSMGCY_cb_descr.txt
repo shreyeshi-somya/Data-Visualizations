@@ -1,0 +1,72 @@
+Data File: RCMSMGCY (Description Only Codebook)
+
+1) FIPSMERG
+Aggregated county FIPS code -- See Appendix C for details
+
+
+
+2) CNTYNM
+County name in 2010
+
+
+
+3) STATEAB
+State abbreviation
+
+
+
+4) YEAR
+Year of data collection
+
+
+
+5) TOTPOP
+Total population
+
+
+
+6) GRPCODE
+Religious group three-digit code (GROUPCODE)
+
+
+
+7) GRPNAME
+Religious group name description GROUPNAME)
+
+
+
+8) ADHERENT
+Number of adherents (ADHERENTS)
+
+
+
+9) CONGREG
+Number of congregations (CONGREGATIONS)
+
+
+
+10) RELTRAD
+Religious tradition category - based on Steensland et al (2000)
+
+
+
+11) FAMILY
+Religious family category - created by theARDA.com
+
+
+
+12) NOTE_MIS
+Flag variable indicating how group is affected by new missing data estimates -- see Appendices A and B for details (NOTE_MISSING)
+
+
+
+13) NOTE_COM
+Flag variable indicating how group is affected by combined group changes -- see Appendix A for details (NOTE_COMBINED)
+
+
+
+14) NOTE_MEA
+Flag variable indicating how group is affected by measurement changes in one or more years -- see Appendix A for details (NOTE_MEASURE)
+
+
+
